@@ -1,6 +1,6 @@
 # TASRCloud
 
-TASRCloud means Targeted ASsembly on the Cloud.
+TASRCloud: Targeted ASsembly on the Cloud.
 
 ## Docker
 
