@@ -1,5 +1,5 @@
-FROM google/cloud-sdk
-MAINTAINER Zhuyi Xue <zxue.bcgsc@gmail.com>
+FROM google/cloud-sdk:178.0.0
+MAINTAINER Zhuyi Xue <zxue@bcgsc.ca>
 
 RUN apt-get update
 
@@ -68,3 +68,4 @@ CMD ["app.py", \
     ]
 
 # # && pip install --upgrade google-api-python-client \
+
